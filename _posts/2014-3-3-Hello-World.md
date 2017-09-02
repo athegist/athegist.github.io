@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: 20170902: xor ax,ax
+date: 20170902T1936572427Z
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Just getting started down the path of learning asm. I'll be documenting my journey here. I'm using Randall Hyde's book __The Art of Assembly Language__, which teaches asm via Hyde's own creation, High Level Assembly. Let's see how it goes.
