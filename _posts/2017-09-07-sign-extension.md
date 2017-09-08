@@ -9,3 +9,5 @@ Today marks hitting some new material on the quest to learn asm. I vaguely recal
 `cwd ();` Converts the word in ax to a double word in dx:ax  
 `cdq ();` Converts the double word in eax to the quad word in edx:eax  
 `cwde();` Converts the word in ax to a double word in eax  
+
+[signExtension.hla](https://github.com/athegist/asm0/blob/master/C2/signExtension.hla)
