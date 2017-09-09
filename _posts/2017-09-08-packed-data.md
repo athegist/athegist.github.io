@@ -37,5 +37,6 @@ The decimal value of the two bytes above, 4678, is meaningless for the data we'r
 
 There's a couple different versions of the program in the repo now. One that is straight from the book and one that provides more output, an annotated version, if you will.
 
-[dateDemo](https://github.com/athegist/asm0/blob/master/C2/dateDemo.hla)  
+[dateDemo](https://github.com/athegist/asm0/blob/master/C2/dateDemo.hla)
+
 [dateDemoAnnotated](https://github.com/athegist/asm0/blob/master/C2/dateDemoAnnotated.hla)
