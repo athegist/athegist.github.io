@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dates as packed data
+title: dates as packed data
 ---
 
 Today's adventures in asm, courtesy of Mr. Hyde, have me packing dates of the form mm-dd-yy, cough (terrible), into a one and two byte locations in memory (al and ax and possibly other non-register locations, it's a bit opaque to me at this point). Ultimately everything fits into two bytes, though at first glance it may seem like more would be required.

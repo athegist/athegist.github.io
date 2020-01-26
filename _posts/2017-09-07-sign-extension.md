@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sign and zero extension
+title: sign and zero extension
 ---
 
 Today marks hitting some new material on the quest to learn asm. I vaguely recall dealing with sign and zero extension before, at least conceptually, but I don't recall having learned the instructions for these concepts.
