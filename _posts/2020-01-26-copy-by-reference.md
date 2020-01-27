@@ -4,7 +4,7 @@ title: copy by reference
 ---
 
 In this exciting episode of not learning asm by working through a book called,
-++The Art of Assembly Language++, we write the program linked below, which 
+**The Art of Assembly Language**, we write the program linked below, which 
 features a string that we input, that is copied to another string *by reference*.
 
 Copy by reference, means we're not actually making a new string, but rather
